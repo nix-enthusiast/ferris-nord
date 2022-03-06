@@ -34,7 +34,7 @@
      inkscape:snap-nodes="false"
      inkscape:snap-global="false"
      inkscape:zoom="0.25"
-     inkscape:cx="1192"
+     inkscape:cx="2114"
      inkscape:cy="1372"
      inkscape:window-width="1366"
      inkscape:window-height="712"
@@ -188,10 +188,10 @@
       <cc:Work
          rdf:about="">
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -202,6 +202,8 @@
            rdf:resource="http://creativecommons.org/ns#Attribution" />
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
       </cc:License>
     </rdf:RDF>
   </metadata>
